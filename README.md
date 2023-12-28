@@ -13,6 +13,7 @@ INSTALL DEPENDENCIES
    ![image](https://github.com/nile-xy/Real-Time-DeepFake-Detection-and-Mitigation/assets/99071836/fc1096b5-fdd7-4ca3-a198-e653382d61eb)
 
    Install CUDA CUDA Toolkit 12.3 on your device as the GPU is needed for the detection of these deeepfake videos.
+   https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
    ![image](https://github.com/nile-xy/Real-Time-DeepFake-Detection-and-Mitigation/assets/99071836/c07cfcff-f3d2-4f05-b6b8-e5330b144075)
 
 On this project this are the requirements 
@@ -46,6 +47,7 @@ Key components of CUDA include:
 5. **CUDA Compiler:** It translates the CUDA code written in CUDA C/C++ into executable code that can run on the GPU.
 
 CUDA has gained popularity in various fields due to its ability to accelerate computation-intensive tasks. It has been widely used in scientific research, data analysis, machine learning, and other domains where parallel processing can lead to significant performance improvements.
+
 
 
 
