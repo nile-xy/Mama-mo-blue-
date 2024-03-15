@@ -1,6 +1,9 @@
 ## Imong Mama Blue
 HESOYAM
 
+![image](https://github.com/nile-xy/Mama-mo-blue-/assets/99071836/eecb6c37-5fd1-47bc-a13f-e672907bb9f5)
+
+
 How To Run
 ![image](https://github.com/nile-xy/Real-Time-DeepFake-Detection-and-Mitigation/assets/99071836/7dc7def4-cdd6-4163-8ae0-65e24da578c6)
 
