@@ -7,6 +7,9 @@ HESOYAM
 
 ![image](https://github.com/nile-xy/Mama-mo-blue-/assets/99071836/d41a0cba-8117-4e92-975a-aa671b2b78c4)
 
+![diagram-export-3-15-2024-11_03_20-PM](https://github.com/nile-xy/Mama-mo-blue-/assets/99071836/64d926ce-f3c8-4889-a6b7-fe488cf79556)
+
+
 
 
 How To Run
